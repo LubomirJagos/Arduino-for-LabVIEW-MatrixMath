@@ -5,28 +5,29 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Advanced Tests" Type="Folder">
-		<Item Name="Matrix Invert Print Result.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Advanced Tests/Matrix Invert Print Result.vi"/>
-		<Item Name="Matrix Add and show result.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Advanced Tests/Matrix Add and show result.vi"/>
-		<Item Name="Matrix Mult and show result.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Advanced Tests/Matrix Mult and show result.vi"/>
-		<Item Name="Matrix Transpose and Print Result.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Advanced Tests/Matrix Transpose and Print Result.vi"/>
-		<Item Name="Matrix Subtract and show result.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Advanced Tests/Matrix Subtract and show result.vi"/>
-		<Item Name="Matrix Copy Print Result.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Advanced Tests/Matrix Copy Print Result.vi"/>
+		<Item Name="Matrix Invert Print Result.vi" Type="VI" URL="../Advanced Tests/Matrix Invert Print Result.vi"/>
+		<Item Name="Matrix Add and show result.vi" Type="VI" URL="../Advanced Tests/Matrix Add and show result.vi"/>
+		<Item Name="Matrix Mult and show result.vi" Type="VI" URL="../Advanced Tests/Matrix Mult and show result.vi"/>
+		<Item Name="Matrix Transpose and Print Result.vi" Type="VI" URL="../Advanced Tests/Matrix Transpose and Print Result.vi"/>
+		<Item Name="Matrix Subtract and show result.vi" Type="VI" URL="../Advanced Tests/Matrix Subtract and show result.vi"/>
+		<Item Name="Matrix Copy Print Result.vi" Type="VI" URL="../Advanced Tests/Matrix Copy Print Result.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
-		<Item Name="Test Matrix Add and Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Add and Print.vi"/>
-		<Item Name="Test Matrix Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Add.vi"/>
-		<Item Name="Test Matrix Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Print.vi"/>
-		<Item Name="Test Matrix Mult.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Mult.vi"/>
-		<Item Name="Test Matrix Transpose.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Transpose.vi"/>
-		<Item Name="Test Matrix Subtract.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Subtract.vi"/>
-		<Item Name="Test Matrix Copy.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Test/Test Matrix Copy.vi"/>
+		<Item Name="Test Matrix Add and Print.vi" Type="VI" URL="../Test/Test Matrix Add and Print.vi"/>
+		<Item Name="Test Matrix Add.vi" Type="VI" URL="../Test/Test Matrix Add.vi"/>
+		<Item Name="Test Matrix Print.vi" Type="VI" URL="../Test/Test Matrix Print.vi"/>
+		<Item Name="Test Matrix Mult.vi" Type="VI" URL="../Test/Test Matrix Mult.vi"/>
+		<Item Name="Test Matrix Transpose.vi" Type="VI" URL="../Test/Test Matrix Transpose.vi"/>
+		<Item Name="Test Matrix Subtract.vi" Type="VI" URL="../Test/Test Matrix Subtract.vi"/>
+		<Item Name="Test Matrix Copy.vi" Type="VI" URL="../Test/Test Matrix Copy.vi"/>
+		<Item Name="Test Matrix Invert.vi" Type="VI" URL="../Test/Test Matrix Invert.vi"/>
 	</Item>
-	<Item Name="Arduino Matrix Add.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Add.vi"/>
-	<Item Name="Arduino Matrix Copy.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Copy.vi"/>
-	<Item Name="Arduino Matrix Invert.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Invert.vi"/>
-	<Item Name="Arduino Matrix Mult.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Mult.vi"/>
-	<Item Name="Arduino Matrix Print.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Print.vi"/>
-	<Item Name="Arduino Matrix Subtract.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Subtract.vi"/>
-	<Item Name="Arduino Matrix Transpose.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Arduino Matrix Transpose.vi"/>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino MatrixMath/Translator.vi"/>
+	<Item Name="Arduino Matrix Add.vi" Type="VI" URL="../Arduino Matrix Add.vi"/>
+	<Item Name="Arduino Matrix Copy.vi" Type="VI" URL="../Arduino Matrix Copy.vi"/>
+	<Item Name="Arduino Matrix Invert.vi" Type="VI" URL="../Arduino Matrix Invert.vi"/>
+	<Item Name="Arduino Matrix Mult.vi" Type="VI" URL="../Arduino Matrix Mult.vi"/>
+	<Item Name="Arduino Matrix Print.vi" Type="VI" URL="../Arduino Matrix Print.vi"/>
+	<Item Name="Arduino Matrix Subtract.vi" Type="VI" URL="../Arduino Matrix Subtract.vi"/>
+	<Item Name="Arduino Matrix Transpose.vi" Type="VI" URL="../Arduino Matrix Transpose.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
